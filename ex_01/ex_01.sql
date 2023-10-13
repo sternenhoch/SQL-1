@@ -1,1 +1,1 @@
-use coding; 
+show tables;

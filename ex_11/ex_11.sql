@@ -1,0 +1,1 @@
+SELECT COUNT(title) AS 'Number of movies that ends up with "tion"' FROM movies WHERE title LIKE '%tion'; 

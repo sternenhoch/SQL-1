@@ -1,0 +1,1 @@
+SELECT movies.title FROM genres INNER JOIN movies ON genres.id = movies.genre_id WHERE name = "romance" OR name = "action";

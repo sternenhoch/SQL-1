@@ -1,0 +1,1 @@
+ select monthname(birthdate) as "month of birth" from profiles order by birthdate limit 41, 43; 
